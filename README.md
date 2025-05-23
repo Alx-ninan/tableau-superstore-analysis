@@ -32,7 +32,7 @@ The Tableau workbook includes the following dashboards:
 
 ### ✅ 3. **Customer Segmentation**
 - Group customers by Segment (Consumer, Corporate, Home Office)
-- Analyze purchasing behavior and profitability per group
+- Analyze purchasing behaviour and profitability per group
 
 ### ✅ 4. **Shipping Performance**
 - Compare shipping modes: Standard Class, First Class, Same Day, etc.
@@ -44,7 +44,6 @@ The Tableau workbook includes the following dashboards:
 
 - 📉 **Tables** sub-category results in consistent losses despite high sales
 - 🌍 **West region** outperforms others in both sales and profitability
-- 🚚 **Standard Class** is the most frequently used shipping method but doesn't always yield the highest profit
 - 🧾 Certain states with high sales volumes also report high return rates
 
 ---
@@ -55,16 +54,5 @@ The Tableau workbook includes the following dashboards:
 2. Open it using **Tableau Desktop** or **Tableau Public**
 3. Navigate through dashboards to explore trends and interact with filters
 
----
 
-## 🚀 Future Improvements
-
-- Add time-series forecasting using Tableau's native capabilities
-- Implement clustering or cohort analysis for deeper customer segmentation
-- Blend with other datasets (e.g., marketing spend, returns data) for advanced insights
-
-
-## 📄 License
-
-This project is open for learning and portfolio purposes. Attribution appreciated.
 
